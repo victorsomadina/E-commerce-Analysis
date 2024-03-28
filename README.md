@@ -33,7 +33,8 @@ Finally, we want to understand the seasonal trends based the customer purchases.
 ![E commerce Analysis (1)_page-0005](https://github.com/victorsomadina/E-commerce-Analysis/assets/103338741/bcb3d064-a93c-46be-ae1f-b5ffd17036bf)
 
 # Conclusion and Recommendation
-This project highlight area of immense interest which is 'UK' as country that have more sales and generate profits for our organization. So UK should be given more concerns in terms of pushing more resources to the country and maintaining the standard of our marketing strategy, while pushing more marketing resources to regions with low sales and low profit generated. 
+This project highlight area of immense interest which is 'UK' as country that have more sales and generate profits for our organization. So UK should be given more concerns in terms of pushing more resources to the country and maintaining the standard of our marketing strategy, while pushing more marketing resources to regions with low sales and low profit generated.
+
 Interact with the online Power BI report [here](https://app.powerbi.com/links/ZGo9DXet5Q?ctid=39c68ff1-a810-4cda-ab2f-5218156b5f4d&pbi_source=linkShare&bookmarkGuid=93d3cb12-7e25-4112-a2dd-e1ad93a2e109)
 
 

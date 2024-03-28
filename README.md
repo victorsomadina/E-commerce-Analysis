@@ -32,4 +32,7 @@ The map shows that the UK appears to be the region with the highest customers' o
 Finally, we want to understand the seasonal trends based the customer purchases. This means we want to understand quantity of products purchased across months. 
 ![E commerce Analysis (1)_page-0005](https://github.com/victorsomadina/E-commerce-Analysis/assets/103338741/bcb3d064-a93c-46be-ae1f-b5ffd17036bf)
 
+# Conclusion and Recommendation
+Interact with the online Power BI report [here](https://app.powerbi.com/links/ZGo9DXet5Q?ctid=39c68ff1-a810-4cda-ab2f-5218156b5f4d&pbi_source=linkShare&bookmarkGuid=93d3cb12-7e25-4112-a2dd-e1ad93a2e109)
+
 

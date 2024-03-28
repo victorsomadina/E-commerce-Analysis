@@ -4,7 +4,7 @@ This project requires deriving insights and recommendations concerning an E comm
 # Issue 1 
 #### Identify outliers or anomalies in the dataset, such as unusually large orders or frequent returns, and what factors might explain them?
 This problem was approached using Python to extract the data, and creating algorithms to check and filter the outliers, determine the factors causing the outliers which is actually inappropriate and ineffective data collection strategy in the UK, then clean out the data containing the outliers as it will introduce biasness to the further analysis to be carried out in Power BI. 
-Click [here]() to see the Python codes and logic approach. 
+Click [here](https://github.com/victorsomadina/E-commerce-Analysis/blob/main/E-commerce%20Analysis.ipynb) to see the Python codes and logic approach. 
 
 # Issue 2
 #### Identify and explain important metrics in the dataset.
@@ -21,4 +21,15 @@ Gaining more insights into the performance of this massive revenue generated in 
 March, May, September, November appears to be the months that generated the highest revenue 
 
 # Issue 4 
+#### Create a geographical heat map showing the distribution of customer orders by country, and identify any regions with particularly high or low sales activity?
+There is a need to understand geographical areas with the highest orders. This also gives insights on regions with high customer density, which will help determine how we strategize to increase sales and revenue in the coming years. 
+![Sales An_page-0004](https://github.com/victorsomadina/E-commerce-Analysis/assets/103338741/afbc9328-0eb2-4b4e-acad-896cdd5be858)
+
+The map shows that the UK appears to be the region with the highest customers' orders. 
+
 # Issue 5
+#### Identify any seasonal trends or patterns in customer purchasing behaviour over the years.
+Finally, we want to understand the seasonal trends based the customer purchases. This means we want to understand quantity of products purchased across months. 
+![E commerce Analysis (1)_page-0005](https://github.com/victorsomadina/E-commerce-Analysis/assets/103338741/bcb3d064-a93c-46be-ae1f-b5ffd17036bf)
+
+

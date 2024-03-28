@@ -3,7 +3,8 @@ This project requires deriving insights and recommendations concerning an E comm
 
 # Issue 1 
 #### Identify outliers or anomalies in the dataset, such as unusually large orders or frequent returns, and what factors might explain them?
-This problem was approached using Python to extract the data, and creating algorithms to check and filter the outliers, determine the factors causing the outliers which is actually inappropriate and ineffective data collection strategy in the UK, then clean out the data containing the outliers as it will introduce biasness to the further analysis to be carried out in Power BI. 
+This problem was approached using Python to extract the data, and creating algorithms to check and filter the outliers, determine the factors causing the outliers which is actually inappropriate and ineffective data collection strategy in the UK, then clean out the data containing the outliers as it will introduce biasness to the further analysis to be carried out in Power BI.
+
 Click [here](https://github.com/victorsomadina/E-commerce-Analysis/blob/main/E-commerce%20Analysis.ipynb) to see the Python codes and logic approach. 
 
 # Issue 2
